@@ -1,0 +1,12 @@
+prefix=@PREFIX@
+exec_prefix=@EXEC_PREFIX@
+libdir=@LIBDIR@
+includedir=@INCLUDEDIR@
+
+Name: widget_viewer_dali
+Description: Support development of the widget Viewer DALi library
+Version: @VERSION@
+Requires: widget_service widget_viewer
+Libs: -L${libdir} -lwidget_viewer_dali
+Cflags: -I${includedir}
+cppflags: -I${includedir}

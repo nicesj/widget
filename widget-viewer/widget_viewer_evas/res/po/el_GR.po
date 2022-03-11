@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Φόρτωση..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Πατήστε για δημιουργία"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Ενεργό"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Απενεργ."
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Νέο"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Προεπιλογή"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Λειτουργία"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Απενεργοποίηση..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Τέλος"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Επεξεργ."
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Δημ/ργία"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Βοήθεια"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Επαναφορά"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Μέγεθος"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Προσθήκη widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Δεν υπάρχει αρκετός χώρος στην αρχική οθόνη."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Αδύνατη η προσθήκη widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Φόρτωση..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Δεν είναι δυνατή η φόρτωση δεδομένων. Πατήστε για να δοκιμάσετε ξανά."
+

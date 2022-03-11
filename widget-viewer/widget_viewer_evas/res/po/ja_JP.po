@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "読み込み中..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "作成"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "有効"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "無効"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "新規"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "標準"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "モード"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "無効にしています..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "完了"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "編集"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "作成"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "ヘルプ"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "リセット"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "サイズ"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "ウィジェットを追加"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "ホーム画面に十分なスペースがありません。"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "ウィジェットの追加不可"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "読み込み中..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "データをロードできません。タップして再度実行してください。"
+

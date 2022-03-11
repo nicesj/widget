@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Yuklanmoqda..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Yaratish uchun cherting"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Yoqish"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "O‘chirish"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Yangi"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Birlamchi"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Rejim"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "O‘chirilmoqda..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "OK"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Tahrirlash"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Yaratish"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Yordam"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Qayta yuklash"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "O‘lcham"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Vidjet qo‘shish"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Asosiy ekranda bo‘sh joy yetarli emas."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Vidjetni qo‘shib bo‘lmaydi"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Yuklanmoqda..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Ma’lumotni yuklab bo‘lmaydi. Qayta urinib ko‘rish uchun cherting"
+

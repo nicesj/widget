@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "ലോഡ്‌ ചെയ്യുന്നു..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "സൃഷ്ടിക്കുക"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "പ്രാപ്‌തം"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "നിഷ്ക്രിയമാക്കുക"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "പുതിയ"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "സ്ഥിരസ്ഥിതി"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "രീതി"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "അപ്രാപ്തമാക്കുന്നു..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "ചെയ്തു"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "എഡിറ്റുചെ"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "സൃഷ്‌ടിക്കുക"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "സഹായം"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "പുനഃസജ്ജമാക്കുക"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "വലുപ്പം"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "വിജറ്റ് ചേർ‌ക്കുക"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "ഹോം സ്ക്രീനില്‍ ആവശ്യമായ സ്ഥലമില്ല."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "വിജറ്റ് ചേര്‍‌ക്കാനാവില്ല"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "ലോഡ്‌ ചെയ്യുന്നു..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "ഡാറ്റ ലോഡുചെയ്യാന്‍ കഴിയുന്നില്ല. വീണ്ടും ശ്രമിക്കുന്നതിന് ടാപ്പുചെയ്യുക"
+

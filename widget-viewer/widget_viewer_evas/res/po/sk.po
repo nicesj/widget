@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Načítava sa..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Ťuknutím môžete vytvoriť"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Povoliť"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Vypnúť"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nová"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Predvolený"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Mód"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Vypína sa..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Hotovo"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Upraviť"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Vytvoriť"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Pomocník"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Vynulovať"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Veľkosť"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Pridanie miniaplikácie"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Nedostatok miesta na domovskej obrazovke."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Miniaplikácia sa nedá pridať"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Načítava sa..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Nemožno načítať údaje. Ťuknutím to môžete skúsiť znova."
+

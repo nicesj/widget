@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Åpner..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Trykk for å opprette"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Aktiver"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Deaktiver"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Ny"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Standard"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Modus"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Deaktiverer..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "OK"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Rediger"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Opprett"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Hjelp"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Nullstill"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Størrelse"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Legg til widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Ikke nok plass på dette startskjermbildet."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Kan ikke legge til widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Åpner..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Kan ikke laste data. Trykk for å prøve på nytt."
+

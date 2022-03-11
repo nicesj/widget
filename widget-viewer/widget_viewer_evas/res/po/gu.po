@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "લોડિંગ..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "બનાવવા માટે ટેપ કરો"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "સક્ષમ કરો"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "અક્ષમ કરો"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "નવું"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "મૂળભૂત"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "મોડ"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "અક્ષમ કરી રહ્યું છે..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "પૂર્ણ"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "ફેરફાર કરો"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "બનાવો"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "મદદ"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "રીસેટ કરો"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "કદ"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "વિજેટ ઉમેરો"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "હોમ સ્ક્રીન પર પૂરતી જગ્યા નથી."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "વિજેટ ઉમેરવામાં અસમર્થ"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "લોડિંગ..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "ડેટા લોડ કરવામાં અસમર્થ. ફરીથી પ્રયાસ કરવા માટે ટેપ કરો."
+

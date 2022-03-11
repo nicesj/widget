@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Завантаження..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Натисніть, щоб створити"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Увімкнути"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Вимкнути"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Нове"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Стандартний"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Режим"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Вимкнення..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Готово"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Редагувати"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Створити"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Довідка"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Скинути"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Розмір"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Додавання віджета"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Недостатньо місця на головному екрані."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Неможливо додати віджет"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Завантаження..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Неможливо завантажити дані. Натисніть, щоб спробувати ще раз"
+

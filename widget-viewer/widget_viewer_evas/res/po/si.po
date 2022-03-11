@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "ප්‍රෙව්ශනය කරමින්..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "සෑදීමට තට්ටු කරන්න"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "සක්‍රිය ක."
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "අක්‍රිය ක."
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "නව"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "පෙරනිමිය"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "ප්‍රකාරය"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "අබල කෙරෙමින්..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "නිමයි"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "සංස්කරණය ක."
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "සාදන්න"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "සහාය"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "නැවත සකසන්න"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "ප්‍රමාණය"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "විජෙට්ටුව එක් කිරීම"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "මුල් තිරයේ ප්‍රමාණවත් ඉඩක් නොමැත."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "විජෙට්ටුව එක් කළ නොහැක"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "ප්‍රෙව්ශනය කරමින්..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "දත්ත ප්‍රවේශනය කිරීමට නොහැකිය. යළි උත්සාහ කිරීමට තට්ටු කරන්න"
+

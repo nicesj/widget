@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "லோடிங்..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "உருவாக்க டேப் செய்க"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "செயல்படுத்துக"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "செயல்நீக்கு"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "புதிய"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "டீஃபால்ட்"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "முறை"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "செயல்நீக்குகிறது..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "முடிந்தது"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "திருத்துக"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "உருவாக்குக"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "உதவி"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "ரீசெட்"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "அளவு"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "விட்ஜெட்டைச் சேர்க்கவும்"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "முகப்புத் திரையில் போதுமான இடம் இல்லை."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "விட்ஜெட்டைச் சேர்க்க இயலவில்லை"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "லோடிங்..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "தரவை ஏற்ற இயலவில்லை. மீண்டும் முயலவென டேப் செய்க."
+

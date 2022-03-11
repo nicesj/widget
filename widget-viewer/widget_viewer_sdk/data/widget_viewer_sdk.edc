@@ -1,0 +1,323 @@
+collections {
+	styles {
+		style {
+			name: "info,text";
+			base: "font=Tizen font_size=25 align=left color=#FFFFFF ellipsis=1.0 wrap=char";
+			tag: "br" "\n";
+			tag: "hilight" "+ font=Tizen:style=Bold";
+			tag: "b" "+ font=Tizen:style=Bold";
+			tag: "tag" "\t";
+		}
+	}
+
+	group {
+		name: "layout";
+		parts {
+			part {
+				name: "bg";
+				type: RECT;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 0 0 0 0;
+				}
+			}
+
+			part {
+				name: "widget";
+				type: SWALLOW;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+
+			part {
+				name: "widget,info,bg";
+				type: RECT;
+				mouse_events: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					visible: 0;
+					color: 100 100 100 100;
+				}
+				description {
+					state: "show" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+
+			part {
+				name: "widget,info";
+				type: RECT;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					visible: 0;
+				}
+
+				description {
+					state: "show" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+
+			part {
+				name: "widget,id,name";
+				clip_to: "widget,info";
+				type: TEXT;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to_y, "widget,id"; }
+					rel2 { relative: 0.3 1.0; to_y, "widget,id"; }
+					text {
+						style: "info,text";
+						text: "widget id";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,id";
+				clip_to: "widget,info";
+				type: TEXTBLOCK;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.35 0.1; }
+					rel2 { relative: 1.0 0.15; }
+					color: 255 255 255 255;
+					color2: 0 0 0 255;
+					color3: 0 0 0 255;
+					text {
+						style: "info,text";
+						text: "widget id";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,content,info,name";
+				clip_to: "widget,info";
+				type: TEXT;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to_y, "widget,content,info"; }
+					rel2 { relative: 0.3 1.0; to_y, "widget,content,info"; }
+					text {
+						style: "info,text";
+						text: "content info";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,content,info";
+				clip_to: "widget,info";
+				type: TEXTBLOCK;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.35 0.20; }
+					rel2 { relative: 1.0 0.25; }
+					color: 255 255 255 255;
+					color2: 0 0 0 255;
+					color3: 0 0 0 255;
+					text {
+						style: "info,text";
+						text: "content info";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,title,name";
+				clip_to: "widget,info";
+				type: TEXT;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to_y, "widget,title"; }
+					rel2 { relative: 0.3 1.0; to_y, "widget,title"; }
+					text {
+						style: "info,text";
+						text: "title";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,title";
+				clip_to: "widget,info";
+				type: TEXTBLOCK;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.35 0.3; }
+					rel2 { relative: 1.0 0.35; }
+					color: 255 255 255 255;
+					color2: 0 0 0 255;
+					color3: 0 0 0 255;
+					text {
+						style: "info,text";
+						text: "Title";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,period,name";
+				clip_to: "widget,info";
+				type: TEXT;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; to_y, "widget,period"; }
+					rel2 { relative: 0.3 1.0; to_y, "widget,period"; }
+					text {
+						style: "info,text";
+						text: "period";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,period";
+				clip_to: "widget,info";
+				type: TEXTBLOCK;
+				mouse_events: 0;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.35 0.4; }
+					rel2 { relative: 1.0 0.45; }
+					color: 255 255 255 255;
+					color2: 0 0 0 255;
+					color3: 0 0 0 255;
+					text {
+						style: "info,text";
+						text: "Update period";
+						fit: 1 1;
+					}
+				}
+			}
+
+			part {
+				name: "widget,size,list";
+				clip_to: "widget,info";
+				mouse_events: 1;
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.7; }
+					rel2 { relative: 1.0 0.95; }
+					visible: 1;
+				}
+				description {
+					state: "hide" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+
+			part {
+				name: "message";
+				mouse_events: 0;
+				type: TEXTBLOCK;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.5 0.3; }
+					rel2 { relative: 0.5 0.6; }
+					color: 255 255 255 255;
+					color2: 0 0 0 255;
+					color3: 0 0 0 255;
+					fixed: 1 0;
+					align: 0.5 0.0;
+					min: 200 0;
+					text {
+						style: "info,text";
+						text: "Information";
+						fit: 1 1;
+					}
+					visible: 0;
+				}
+				description {
+					state: "show" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+		} /* parts */
+
+		programs {
+			program {
+				name: "show,info";
+				signal: "show";
+				source: "info";
+				action: STATE_SET "show" 0.0;
+				target: "widget,info";
+				target: "widget,info,bg";
+			}
+
+			program {
+				name: "hide,info";
+				signal: "hide";
+				source: "info";
+				action: STATE_SET "default" 0.0;
+				target: "widget,info";
+				target: "widget,info,bg";
+			}
+
+			program {
+				name: "show,message";
+				signal: "show";
+				source: "message";
+				action: STATE_SET "show" 0.0;
+				target: "message";
+			}
+
+			program {
+				name: "hide,message";
+				signal: "hide";
+				source: "message";
+				action: STATE_SET "default" 0.0;
+				target: "message";
+			}
+
+			program {
+				name: "hide,size,list";
+				signal: "hide";
+				source: "size,list";
+				action: STATE_SET "hide" 0.0;
+				target: "widget,size,list";
+			}
+
+			program {
+				name: "show,size,list";
+				signal: "show";
+				source: "size,list";
+				action: STATE_SET "default" 0.0;
+				target: "widget,size,list";
+			}
+		}
+	}
+}

@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Betöltés..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Ér. meg a létrehozáshoz"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Engedélyezés"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Kikapcsol"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Új"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Alapértelmezett"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Mód"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Letiltás..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Kész"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Szerk."
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Létrehoz"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Súgó"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Visszaállítás"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Méret"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Widget hozzáadása"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Nincs elég hely a kezdőképernyőn."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Nem adható hozzá a widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Betöltés..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Nem lehet betölteni az adatokat. Érintse meg az újabb próbálkozáshoz."
+

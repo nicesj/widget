@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "جاري التحميل ..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "انقر للإنشاء"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "تفعيل"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "تعطيل"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "جديد"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "إفتراضي"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "النمط"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "يتم التعطيل..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "تم"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "تعديل"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "إنشاء"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "مساعدة"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "إرجاع"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "الحجم"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "إضافة تطبيق مصغر"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "لا توجد مساحة كافية على الشاشة الرئيسية."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "تتعذر إضافة التطبيق المصغر"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "جاري التحميل ..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "يتعذر تحميل البيانات. انقر لإعادة المحاولة."
+

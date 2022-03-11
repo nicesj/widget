@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "లోడ్ అవుతోంది..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "సృష్టించడానికి ట్యాప్"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "ఎనేబుల్ చేయి"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "నిలిపివేయి"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "కొత్త"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "డీఫాల్ట్"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "మోడ్"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "నిలిపివేస్తోంది..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "పూర్తి"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "సవరించు"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "రూపొందించు"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "సహాయం"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "రీసెట్"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "పరిమాణం"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "విడ్జెట్‌ను జోడించండి"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "హోమ్ స్క్రీన్‌లో తగినంత ఖాళీ లేదు."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "విడ్జెట్‌ను జోడించడం సాధ్యం కాదు"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "లోడ్ అవుతోంది..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "డేటాను లోడ్ చేయడం సాధ్యం కాదు. మళ్లీ ప్రయత్నించడానికి ట్యాప్ చేయండి."
+

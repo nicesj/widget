@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "बनाने के लिए टैप करें"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "सक्षम"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "अक्षम करें"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "नया"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "डिफॉल्ट"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "मोड"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "अक्षम हो रहा है..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "पूर्ण"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "संपादन"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "बनाएँ"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "सहायता"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "रीसेट"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "आकार"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "विजेट जोड़ें"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "होम स्क्रीन पर पर्याप्त स्थान नहीं है।"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "विजेट जोड़ने में असमर्थ"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "डाटा लोड करने में अक्षम। फिर से प्रयास करने हेतु टैप करें।"
+

@@ -1,0 +1,12 @@
+prefix=@PREFIX@
+exec_prefix=@EXEC_PREFIX@
+libdir=@LIBDIR@
+includedir=@INCLUDEDIR@
+
+Name: widget_provider
+Description: widget Provider supporting library
+Version: @VERSION@
+Requires: widget_service libtbm
+Libs: -L${libdir} -lwidget_provider
+Cflags: -I${includedir}
+cppflags: -I${includedir}

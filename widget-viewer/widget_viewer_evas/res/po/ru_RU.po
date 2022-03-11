@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Загрузка..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Нажмите для создания"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Включить"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Выключить"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Создать"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "По умолчанию"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Режим"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Отключение..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Готово"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Изменить"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Создать"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Справка"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Сброс"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Размер"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Добавить виджет"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Недостаточно места на главном экране."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Не удалось добавить виджет"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Загрузка..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Не удалось загрузить данные. Коснитесь для повтора"
+

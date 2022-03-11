@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Активирање..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Допрете за нова"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Вклучи"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Исклучи"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Нова"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Основно"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Режим"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Се исклучува..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Готово"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Измени"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Ново"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Помош"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Ресетирај"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Големина"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Додај виџет"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Нема доволно место на почетниот екран."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Не може да се додаде виџет"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Активирање..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Не можат да се вчитаат податоци. Допрете за повторен обид."
+

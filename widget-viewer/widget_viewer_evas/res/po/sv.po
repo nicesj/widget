@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Laddar..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Tryck för att skapa"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Aktivera"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Inaktivera"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nytt"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Standard"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Läge"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Inaktiverar ..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Klar"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Redigera"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Skapa"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Hjälp"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Återställ"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Storlek"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Lägg till widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Det finns inte tillräckligt med utrymme på hemskärmen."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Widgeten lades inte till"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Laddar..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Det går inte att läsa in data. Tryck om du vill försöka igen."
+

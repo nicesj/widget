@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "载入中…"
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "点击以创建"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "启动"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "禁用"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "新建"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "默认"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "模式"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "正在禁用..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "完成"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "编辑"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "新建"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "帮助"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "重置"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "大小"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "添加小组件"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "主屏上空间不足。"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "无法添加小组件"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "载入中…"
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "无法载入数据。轻敲以重试。"
+

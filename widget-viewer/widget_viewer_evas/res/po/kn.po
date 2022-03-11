@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "ಲೋಡಿಂಗ್..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "ರಚಿಸಲು ತಟ್ಟಿ"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "ಶಕ್ತಗೊಳಿಸು"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "ನಿಶಕ್ತ"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "ಹೊಸ"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "ಡಿಫಾಲ್ಟ್"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "ಮೊಡ್"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "ನಿಶಕ್ತಗೊಳಿಸಲಾಗುತ್ತಿದೆ..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "ಮಾಡಿದೆ"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "ಸಂಪಾದಿಸು"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "ರಚಿಸಿರಿ"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "ಸಹಾಯ"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "ಮರುಹೊಂದಿಸು"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "ಗಾತ್ರ"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "ವಿಜೆಟ್ ಸೇರಿಸಿ"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶವಿಲ್ಲ."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "ವಿಜೆಟ್ ಸೇರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "ಲೋಡಿಂಗ್..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "ಡೇಟಾ ಲೋಡ್ ಮಾಡಲು ಅಸಮರ್ಥ. ಮರುಪ್ರಯತ್ನಿಸಲು ಒತ್ತಿ."
+

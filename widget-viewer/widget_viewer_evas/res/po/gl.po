@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Cargando..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Toca para crear"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Activar"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Desactivar"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Novo"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Predeterminada"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Modo"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Desactivando..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Feito"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Editar"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Crear"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Axuda"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Restablecer"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Tamaño"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Engadir widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Non hai espazo suficiente na pantalla de inicio"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Non se pode engadir o widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Cargando..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Non se poden cargar datos. Toca para tentalo de novo."
+

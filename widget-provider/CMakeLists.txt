@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+ADD_SUBDIRECTORY(widget_provider)
+ADD_SUBDIRECTORY(widget_provider_app)
+
+ADD_DEPENDENCIES(widget_provider_app widget_provider)

@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Ładuję..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Dotknij, aby utworzyć"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Włącz"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Wyłącz"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nowe"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Domyślnie"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Tryb"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Wyłączanie..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Gotowe"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Edytuj"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Utwórz"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Pomoc"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Wyzeruj"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Rozmiar"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Dodawanie widgetu"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Brak miejsca na ekranie głównym."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Nie można dodać widgetu"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Ładuję..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Nie można załadować danych. Dotknij, aby spróbować ponownie."
+

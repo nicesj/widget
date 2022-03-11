@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Yükleniyor..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Oluşturmak için dokunun"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Etkinleştir"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Devre dışı"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Yeni"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Varsayılan"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Mod"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Devre dışı bırakılıyor..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Tamam"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Düzenle"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Oluştur"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Yardım"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Sıfırla"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Boyut"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Widget ekle"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Ana sayfa ekranında yeterli yer yok."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Widget eklenemiyor"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Yükleniyor..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Veri yüklenemiyor. Tekrar denemek için dokunun."
+

@@ -1,0 +1,30 @@
+<manifest>
+	<define>
+		<domain name="org.tizen.widget_viewer_sdk" />
+	</define>
+	<request>
+		<domain name="org.tizen.widget_viewer_sdk" />
+	</request>
+	<assign>
+		<!-- Package manifest file -->
+		<filesystem path="/usr/share/packages/org.tizen.widget_viewer_sdk.xml" label="_" />
+
+		<!-- Package folder -->
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk" label="org.tizen.widget_viewer_sdk" />
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/res" label="org.tizen.widget_viewer_sdk" />
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/res/image" label="org.tizen.widget_viewer_sdk" />
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/res/edje" label="org.tizen.widget_viewer_sdk" />
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/author-signature.xml" label="_" />
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/signature1.xml" label="_" />
+
+		<!-- Executable file -->
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/bin/widget_viewer_sdk" label="org.tizen.widget_viewer_sdk" exec_label="org.tizen.widget_viewer_sdk" />
+
+		<!-- Data folder -->
+		<filesystem path="/opt/usr/apps/org.tizen.widget_viewer_sdk" label="org.tizen.widget_viewer_sdk" />
+		<filesystem path="/opt/usr/apps/org.tizen.widget_viewer_sdk/data" label="org.tizen.widget_viewer_sdk" />
+
+		<!-- Shared folder -->
+		<filesystem path="/usr/apps/org.tizen.widget_viewer_sdk/shared" label="_" type="transmutable" />
+	</assign>
+</manifest>

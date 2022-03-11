@@ -1,0 +1,446 @@
+/*
+ * Samsung API
+ * Copyright (c) 2013 Samsung Electronics Co., Ltd.
+ *
+ * Licensed under the Flora License, Version 1.1 (the License);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://floralicense.org/license/
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an AS IS BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+#if !defined(_WIDGET_INCLUDED)
+collections {
+#endif
+	styles {
+		style {
+			name: "overlay,text";
+			base: "font=Tizen text_class=tizen font_size=30 align=center color=#FFFFFF ellipsis=1.0 wrap=char";
+			tag:  "br" "\n";
+			tag:  "hilight" "+ font=Tizen:style=Bold";
+			tag:  "b" "+ font=Tizen:style=Bold";
+			tag:  "tab" "\t";
+		}
+	}
+
+	group
+	{
+		name: "overlay";
+		parts
+		{
+			part {
+				name: "preview";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+
+			part {
+				name: "bg,img";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 100 100 100 100;
+				}
+				description {
+					state: "hide" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+
+			part {
+				name: "text";
+				type: TEXTBLOCK;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 20/320 200/320; }
+					rel2 { relative: 300/320 320/320; }
+					max: 280 -1;
+					text {
+						style: "overlay,text";
+						min: 0 0;
+					}
+				}
+				description {
+					state: "hide" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+		}
+
+		programs {
+			program {
+				name: "disable,text";
+				signal: "disable";
+				source: "text";
+				action: STATE_SET "hide" 0.0;
+				target: "text";
+				target: "bg,img";
+			}
+
+			program {
+				name: "enable,text";
+				signal: "enable";
+				source: "text";
+				action: STATE_SET "default" 0.0;
+				target: "text";
+				target: "bg,img";
+			}
+		}
+	}
+
+	group
+	{
+		name: "widget,image";
+		parts
+		{
+			part {
+				name: "front";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					visible: 1;
+				}
+				description {
+					state: "to,back" 0.0;
+					inherit: "default" 0.0;
+					visible: 0;
+				}
+			}
+
+			part {
+				name: "front,content";
+				type: SWALLOW;
+				clip_to: "front";
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+
+			part {
+				name: "back";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					visible: 0;
+				}
+				description {
+					state: "to,back" 0.0;
+					inherit: "default" 0.0;
+					visible: 1;
+				}
+			}
+
+			part {
+				name: "back,content";
+				type: SWALLOW;
+				clip_to: "back";
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+		}
+
+		programs
+		{
+			program {
+				name: "turn,to,back,front";
+				signal: "to,back";
+				source: "turn";
+				action: STATE_SET "to,back" 0.0;
+				target: "front";
+				target: "back";
+				transition: LINEAR 0.5;
+				after: "play,end";
+			}
+
+			program {
+				name: "turn,to,front";
+				signal: "to,front";
+				source: "turn";
+				action: STATE_SET "default" 0.0;
+				target: "front";
+				target: "back";
+				transition: LINEAR 0.5;
+				after: "play,end";
+			}
+
+			program {
+				name: "play,end";
+				action: SIGNAL_EMIT "done" "turn";
+			}
+		}
+	}
+
+	group
+	{
+		name: "widget";
+		parts
+		{
+			part {
+				name: "widget,content";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					map {
+						on: 0;
+					}
+				}
+				description {
+					state: "tilt" 0.0;
+					inherit: "default" 0.0;
+					map {
+						on: 1;
+						rotation {
+							x: 30.0;
+						}
+					}
+				}
+				description {
+					state: "move,down" 0.0;
+					inherit: "default" 0.0;
+					rel1 { relative: 0.0 0.2; }
+					rel2 { relative: 1.0 1.2; }
+				}
+			}
+
+			part {
+				name: "scroller";
+				mouse_events: 1;
+				repeat_events: 1;
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+
+			part {
+				name: "overlay";
+				mouse_events: 1;
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 255 255 255 255;
+					visible: 1;
+				}
+				description {
+					state: "disable,overlay" 0.0;
+					inherit: "default" 0.0;
+					color: 0 0 0 0;
+					visible: 0;
+				}
+			}
+
+			part {
+				name: "overlay,content";
+				mouse_events: 1;
+				type: SWALLOW;
+				clip_to: "overlay";
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+		}
+
+		programs
+		{
+			program {
+				name: "reset,overlay";
+				signal: "reset";
+				source: "overlay";
+				action: STATE_SET "disable,overlay" 0.0;
+				target: "overlay";
+			}
+			program {
+				name: "enable,overlay";
+				signal: "enable";
+				source: "overlay";
+				action: STATE_SET "default" 0.0;
+				target: "overlay";
+				transition: LINEAR 0.5;
+				after: "animation,done";
+			}
+			program {
+				name: "enable,overlay,without,animation";
+				signal: "enable,without,animation";
+				source: "overlay";
+				action: STATE_SET "default" 0.0;
+				target: "overlay";
+				after: "animation,done";
+			}
+
+			program {
+				name: "disable,overlay";
+				signal: "disable";
+				source: "overlay";
+				action: STATE_SET "disable,overlay" 0.0;
+				target: "overlay";
+				transition: LINEAR 0.5;
+				after: "animation,done";
+			}
+			program {
+				name: "disable,overlay,without,animation";
+				signal: "disable,without,animation";
+				source: "overlay";
+				action: STATE_SET "disable,overlay" 0.0;
+				target: "overlay";
+				after: "animation,done";
+			}
+
+			program {
+				name: "tilt,start";
+				signal: "tilt";
+				source: "content";
+				action: STATE_SET "tilt" 0.0;
+				target: "widget,content";
+				transition: LINEAR 0.15;
+				after: "tilt,end";
+			}
+
+			program {
+				name: "tilt,end";
+				action: STATE_SET "default" 0.0;
+				target: "widget,content";
+				transition: LINEAR 0.15;
+				after: "animation,done";
+			}
+
+			program {
+				name: "move,down,start";
+				signal: "move,down";
+				source: "content";
+				action: STATE_SET "move,down" 0.0;
+				target: "widget,content";
+				transition: LINEAR 0.15;
+				after: "move,down,end";
+			}
+
+			program {
+				name: "move,down,end";
+				action: STATE_SET "default" 0.0;
+				target: "widget,content";
+				transition: LINEAR 0.15;
+				after: "animation,done";
+			}
+
+			program {
+				name: "animation,done";
+				action: SIGNAL_EMIT "finished" "animation";
+			}
+		}
+	}
+
+	group
+	{
+		name: "gbar";
+		parts
+		{
+			part {
+				name: "gbar,content";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+
+			part {
+				name: "overlay";
+				type: RECT;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 255 255 255 255;
+					visible: 1;
+				}
+				description {
+					state: "disable,overlay" 0.0;
+					inherit: "default" 0.0;
+					color: 0 0 0 0;
+					visible: 0;
+				}
+			}
+
+			part {
+				name: "overlay,content";
+				type: SWALLOW;
+				clip_to: "overlay";
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+				}
+			}
+		}
+
+		programs
+		{
+			program {
+				name: "reset,overlay";
+				signal: "reset";
+				source: "overlay";
+				action: STATE_SET "disable,overlay" 0.0;
+				target: "overlay";
+			}
+			program {
+				name: "enable,overlay";
+				signal: "enable";
+				source: "overlay";
+				action: STATE_SET "default" 0.0;
+				target: "overlay";
+				transition: LINEAR 0.15;
+				after: "animation,done";
+			}
+
+			program {
+				name: "disable,overlay";
+				signal: "disable";
+				source: "overlay";
+				action: STATE_SET "disable,overlay" 0.0;
+				target: "overlay";
+				transition: LINEAR 0.15;
+				after: "animation,done";
+			}
+
+			program {
+				name: "animation,done";
+				action: SIGNAL_EMIT "finished" "animation";
+			}
+		}
+	}
+#if !defined(_WIDGET_INCLUDED)
+}
+#endif
+
+/* End of a file */

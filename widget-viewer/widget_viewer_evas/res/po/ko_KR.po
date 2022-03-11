@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "불러오는 중..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "새 진동패턴 추가"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "실행"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "해제"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "추가"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "기본"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "모드"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "해제 중..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "완료"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "편집"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "추가"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "도움말"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "초기화"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "크기"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "위젯 추가"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "홈 화면에 빈 공간이 없습니다."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "위젯을 추가할 수 없음"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "불러오는 중..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "데이터를 불러올 수 없습니다. 다시 시도하려면 누르세요."
+

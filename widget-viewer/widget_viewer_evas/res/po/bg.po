@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Зареждане"
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Чукнете, за да създадете"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Разрешаване"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Забрани"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Ново"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "По подразбиране"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Режим"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Деактивиране..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Готово"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Редактир."
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Създай"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Помощ"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Нyлиране"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Размер"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Добавяне на уиджет"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Няма достатъчно място в началния екран."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Не може да се добави уиджет"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Зареждане"
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Данните не могат да се заредят. Чукнете, за да опитате отново."
+

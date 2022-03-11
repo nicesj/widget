@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Laden..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Tik om te maken"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Aanzetten"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Uitzetten"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nieuw"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Standaard"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Stand"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Uitschakelen..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Gereed"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Bewerken"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Nieuw"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Help"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Resetten"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Grootte"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Widget toevoegen"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Niet genoeg ruimte op het startscherm."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Kan widget niet toevoegen"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Laden..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Kan gegevens niet laden. Tik om opnieuw te proberen."
+

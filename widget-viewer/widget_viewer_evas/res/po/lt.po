@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Įkeliama..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Bakstelėkite ir sukurkite"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Įjungti"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Išjungti"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nauja"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Numatytoji"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Režimas"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Išjungiama..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Atlikta"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Redaguoti"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Kurti"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Pagalba"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Atstatyti"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Dydis"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Pridėti valdiklį"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Nepakanka vietos pradžios ekrane."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Neįmanoma pridėti valdiklio"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Įkeliama..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Neįmanoma įkelti duomenų. Bakstelėkite ir bandykite dar kartą."
+

@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "正在載入..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "輕觸以建立"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "啟用"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "關閉"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "新的"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "預設"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "模式"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "正在停用..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "完成"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "編輯"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "建立"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "說明"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "重設"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "大小"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "加入 Widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "主螢幕空間不足。"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "無法加入 Widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "正在載入..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "無法載入數據。輕觸以重試。"
+

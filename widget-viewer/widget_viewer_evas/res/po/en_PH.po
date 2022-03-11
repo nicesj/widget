@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Loading..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Tap to create"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Enable"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Disable"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "New"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Default"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Mode"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Disabling..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Done"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Edit"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Create"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Help"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Reset"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Size"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Add widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Not enough space on the home screen."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Unable to add widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Loading..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Unable to load data. Tap to retry."
+

@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Lädt..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Zum Erstellen hier tippen"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Aktivieren"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Deaktivieren"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Neu"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Standard"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Modus"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Deaktivieren..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Fertig"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Bearbeiten"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Erstellen"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Hilfe"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Zurücksetzen"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Größe"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Hinzufügen von Widgets"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Kein ausreichender Platz auf Startbildschirm"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Hinzufügen nicht möglich"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Lädt..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Daten konnten nicht geladen werden. Für erneuten Versuch tippen"
+

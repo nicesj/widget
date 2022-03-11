@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Ag lódáil..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Tapáil le cruthú"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Cumasaigh"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Díchumasú"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nua"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Réamhshocrú"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Mód"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Á dhíchumasú..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Déanta"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "In eagar"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Cruthaigh"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Cuidiú"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Athshocraigh"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Méid"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Cuir giuirléid leis"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Níl go leor spáis ar an scáileán baile."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Ní féid. giuirléid a chur leis"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Ag lódáil..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Ní féidir sonraí a choinneáil. Tapáil le triail arís."
+

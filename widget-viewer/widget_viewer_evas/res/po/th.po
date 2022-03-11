@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "โหลด..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "สัมผัส​เพื่อ​สร้าง"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "เปิดใช้งาน"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "ปิด​ใช้​งาน"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "ใหม่"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "พื้นฐาน"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "โหมด"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "กำลังปิดใช้งาน..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "เรียบร้อย"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "แก้ไข"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "สร้าง"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "วิธี​ใช้"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "รีเซ็ท"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "ขนาด"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "เพิ่ม Widget"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "ที่ว่างบนหน้าจอหลักไม่พอ"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "ไม่สามารถเพิ่ม Widget"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "โหลด..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "ไม่สามารถโหลดข้อมูลได้ สัมผัสเพื่อลองอีกครั้ง"
+

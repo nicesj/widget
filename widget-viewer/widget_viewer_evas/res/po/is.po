@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Hleð..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Pikkaðu til að búa til"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Gera virkt"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Slökkva"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Nýtt"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Sjálfgefið"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Stilling"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Slekk..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Lokið"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Breyta"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Búa til"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Hjálp"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Endurstilla"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Stærð"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Bæta við græju"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Of lítið pláss á heimaskjánum."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Ekki er hægt að bæta við græju"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Hleð..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Ekki tókst að hlaða gögn. Pikkaðu til að reyna aftur."
+

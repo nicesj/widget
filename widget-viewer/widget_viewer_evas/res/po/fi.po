@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Ladataan..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Luo napauttamalla"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Päälle"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Ei käyt."
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Uusi"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Oletus"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Tila"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Poistetaan käytöstä..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Valmis"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Muokkaa"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Luo"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Ohje"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Nollaa"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Koko"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Lisää pienoisohjelma"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Alkunäytössä ei ole tarpeeksi tilaa."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Pienoisohjelmaa ei voi lisätä"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Ladataan..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Tietoja ei voi ladata. Yritä napauttamalla uudelleen."
+

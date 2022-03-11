@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Nalaganje..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Pritisnite, da ustvarite"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Omogoči"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Onemogoči"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Novo"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Privzeto"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Način"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Onemogočanje ..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Končano"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Urejanje"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Ustvari"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Pomoč"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Ponastavi"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Velikost"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Dodajanje pripomočka"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Na domačen zaslonu ni dovolj prostora."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Pripomočka ni mogoče dodati"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Nalaganje..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Podatkov ni mogoče naložiti. Pritisnite, da poskusite znova."
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.widget_viewer_sdk" version="1.0.0" install-location="auto" root_path="/opt/apps/org.tizen.widget_viewer_sdk" appsetting="false">
+	<label>Widget Viewer SDK</label>
+	<author email="nicesj@nicesj.com" href="nicesj.com">Sungjae Park</author>
+	<description>Widget Viewer for SDK</description>
+
+	<privileges>
+	<privilege>http://tizen.org/privilege/application.launch</privilege>
+	<privilege>http://tizen.org/privilege/system</privilege>
+	<privilege>http://tizen.org/privilege/widget.viewer</privilege>
+	</privileges>
+
+	<!-- Main application -->
+	<ui-application appid="org.tizen.widget_viewer_sdk" exec="/usr/apps/org.tizen.widget_viewer_sdk/bin/widget_viewer_sdk" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<label>Widget Viewer for SDK</label>
+		<label xml:lang="ko-kr">위젯 뷰어 for SDK</label>
+		<icon>org.tizen.widget_viewer_sdk</icon>
+	</ui-application>
+</manifest>

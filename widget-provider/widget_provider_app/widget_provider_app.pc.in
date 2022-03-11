@@ -1,0 +1,12 @@
+prefix=@PREFIX@
+exec_prefix=@EXEC_PREFIX@
+libdir=@LIBDIR@
+includedir=@INCLUDEDIR@
+
+Name: libwidget_provider_app
+Description: widget Provider App supporting library
+Version: @VERSION@
+Requires: widget_provider widget_service
+Libs: -L${libdir} -lwidget_provider_app
+Cflags: -I${includedir}
+cppflags: -I${includedir}

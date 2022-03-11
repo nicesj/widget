@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "טוען..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "הקש כדי ליצור"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "הפעל"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "השבת"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "חדש"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "ברירת מחדל"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "מצב GPS"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "משבית..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "סיום"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "ערוך"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "צור"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "עזרה"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "איפוס"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "גודל"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "הוספת יישומון"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "אין די מקום במסך הבית."
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "לא ניתן להוסיף יישומון"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "טוען..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "לא ניתן לטעון נתונים. הקש כדי לנסות שנית."
+

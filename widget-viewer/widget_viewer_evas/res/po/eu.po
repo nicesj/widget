@@ -1,0 +1,57 @@
+msgid "IDS_ST_POP_LOADING_ING"
+msgstr "Kargatzen..."
+
+msgid "IDS_ST_BUTTON_TAP_TO_CREATE"
+msgstr "Ukitu sortzeko"
+
+msgid "IDS_ST_BUTTON_ENABLE"
+msgstr "Gaitu"
+
+msgid "IDS_ST_BUTTON_DISABLE"
+msgstr "Ezgaitu"
+
+msgid "IDS_ST_BODY_NEW"
+msgstr "Berria"
+
+msgid "IDS_ST_BODY_MYTHEME_DEFAULT"
+msgstr "Lehenetsia"
+
+msgid "IDS_ST_BODY_MODE"
+msgstr "Modua"
+
+msgid "IDS_ST_BODY_DISABLING_ING"
+msgstr "Desgaitzen..."
+
+msgid "IDS_HS_BUTTON_DONE"
+msgstr "Egina"
+
+msgid "IDS_HS_BUTTON_EDIT_ABB"
+msgstr "Editatu"
+
+msgid "IDS_ST_BODY_MYTHEME_CREATE"
+msgstr "Sortu"
+
+msgid "IDS_ST_HEADER_HELP"
+msgstr "Laguntza"
+
+msgid "IDS_ST_BODY_RESET"
+msgstr "Berrezarri"
+
+msgid "IDS_ST_BODY_SIZE"
+msgstr "Tamaina"
+
+msgid "IDS_HS_HEADER_ADD_WIDGET"
+msgstr "Gehitu widgeta"
+
+msgid "IDS_HS_BODY_NOT_ENOUGH_SPACE_ON_THE_HOME_SCREEN"
+msgstr "Ez dago nahikoa espazio pantaila nagusian"
+
+msgid "IDS_HS_HEADER_UNABLE_TO_ADD_WIDGET_ABB"
+msgstr "Ezin da widgeta gehitu"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Kargatzen..."
+
+msgid "IDS_HS_BODY_UNABLE_TO_LOAD_DATA_TAP_TO_RETRY"
+msgstr "Ezin dira datuak kargatu. Ukitu berriz saiatzeko."
+
